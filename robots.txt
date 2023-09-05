@@ -1,0 +1,22 @@
+User-Agent: *
+Disallow: *?*
+
+User-agent: MJ12bot
+Disallow: /
+    
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: rogerbot
+Disallow:/
+
+User-agent: dotbot
+Disallow:/
+ 
+User-agent: AhrefsBot
+Disallow: /
+
+Sitemap: https://easywordcount.com/sitemap.xml
